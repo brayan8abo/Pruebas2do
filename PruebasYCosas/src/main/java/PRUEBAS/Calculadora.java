@@ -136,6 +136,7 @@ public class Calculadora extends JFrame {
 					lblDivision.setText("La división es: " + (num1 / num2));
 				} catch (Exception e2) {
 					JOptionPane.showMessageDialog(null, "ERROR");
+					
 				}
 
 			}

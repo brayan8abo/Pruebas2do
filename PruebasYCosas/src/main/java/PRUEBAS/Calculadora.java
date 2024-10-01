@@ -166,3 +166,5 @@ public class Calculadora extends JFrame {
 }
 // te digo que el boton este arriba y la respuesta abajo
 //asi? si esta ,mejor
+// igual pienso mejorarlo que no se vea tan cutre
+// jajaja bueno

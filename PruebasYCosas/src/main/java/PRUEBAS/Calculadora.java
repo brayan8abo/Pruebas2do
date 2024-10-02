@@ -54,6 +54,7 @@ public class Calculadora extends JFrame {
 		
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
+		//todo funciona correctamente
 		
 		JButton btnSuma = new JButton("SUMA");
 		btnSuma.addActionListener(new ActionListener() {
@@ -164,7 +165,4 @@ public class Calculadora extends JFrame {
 		
 	}
 }
-// te digo que el boton este arriba y la respuesta abajo
-//asi? si esta ,mejor
-// igual pienso mejorarlo que no se vea tan cutre
-// jajaja bueno
+//COrrecto
